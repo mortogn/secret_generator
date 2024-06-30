@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import React from "react";
 import crypto from "node:crypto";
 import { generateBase64String } from "@/utils/secret-gen";
